@@ -1,0 +1,6 @@
+# CS-519
+# Applied Machine Learning long semester project 
+# Team names
+Adetoye Abodunrin
+Bidemi Adedokun
+Hammed Ilupeju
