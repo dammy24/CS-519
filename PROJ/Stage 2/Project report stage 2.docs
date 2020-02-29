@@ -1,0 +1,11 @@
+
+###Proposed Title: Classification of New Mexico Chile pepper plant disease using Multilayer Neural Network model.
+
+The severity of diseases caused by pathogens varies from mild symptoms to decline of the infected plants, depending on the aggressiveness of the pathogen, host resistance, environmental conditions, duration of infection and other factors. Plant disease symptoms vary with the infecting pathogen and the infected part and can include leaf spots, leaf blights, root rots, fruit rots, fruit spots, wilt, dieback and decline.
+Worldwide, per capita availability of food is projected to increase around 7 percent between 1993 and 2020, from about 2,700 calories per person per day in 1993 to about 2,900 calories. This is gradually becoming a mere dream because of plant disease which reduces yields. This implies plant disease have both direct and indirect impact on health, food security and economic growth of every nation. Since plant diseases are strongly influenced by environmental factors, it will be unrealistic to talk about all plants and all diseases (they are heterogenous). Chile is one of the most popular and promising grown plant in New Mexico. 
+New Mexico is the nation’s largest Chile pepper grower, followed by California, Arizona and Texas. It is obvious that Chile farm and produces are insufficient as about 80 percent of the Chile peppers consumed in the United States are imported, largely due to lower hand labour costs, lack of adequate funds and disease control. 
+The main 
+Goal: The goal of this project is to build a robust model and application using machine and deep learning approach for image classification. This will be achieved using keras package with python and R (by Francois Chollet and J.J. Allaire, 2018) with TensorFlow (by google, 2015 and updated January 2018) as backend. 
+Objectives: observe different machine learning techniques which can help to reduce overfitting and train a robust model. This will be done by considering data augmentation, regularization, with different iterations. The data will be splitted into three namely Training, Test and Validation.     
+Society Impact: Automatic detection will help in bringing cost of detecting plant disease to the beariest minimum for adequate preventive measures and control.
+
